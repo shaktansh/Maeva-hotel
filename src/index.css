@@ -14,7 +14,7 @@
   --surface:     #FDFAF7;
   --dark:        #1E140C;
 
-  --tx:          #1A120A;
+  --tx:          #3D2B1F;
   --tx2:         #5C4B38;
   --tx3:         #9B8B79;
   --txl:         #FDFAF7;
@@ -29,7 +29,7 @@
 
   --nav-bg:      rgba(247,243,238,0.94);
   --nav-blur:    blur(18px);
-  --nav-tx:      #1A120A;
+  --nav-tx:      #3D2B1F;
 
   --hero-over:   linear-gradient(170deg,rgba(18,10,4,0.62) 0%,rgba(18,10,4,0.3) 55%,rgba(184,146,74,0.06) 100%);
 
